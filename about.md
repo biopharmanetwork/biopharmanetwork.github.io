@@ -15,9 +15,14 @@ CBCN每月将邀请一到两位工业界资深工作者就自己的工作进行�
 
 **[欢迎加入我们的[Telegram](https://t.me/+8HA1KycsE8E2YWJh)，也欢迎广大华人医学工作者在此平台介绍自己的工作及研发或创业经历。
 
-#### YouTuBe 和 B站：
+#### YouTuBe 和 twitter：
 
 [https://www.youtube.com/channel/UCeJ-M-ZRE-p0m6xuYL7cs9g](https://www.youtube.com/channel/UCeJ-M-ZRE-p0m6xuYL7cs9g)
+[https://twitter.com/CareerBiopharma](https://twitter.com/CareerBiopharma)
+
+#### Linkedin：
+
+[https://www.linkedin.com/groups/12692583/](https://www.linkedin.com/groups/12692583/)
 
 #### CBCN-Github程序集：
 
