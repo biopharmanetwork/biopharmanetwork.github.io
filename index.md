@@ -5,8 +5,6 @@ tagline:
 ---
 {% include JB/setup %}
 
-![]({{ site.url }}/images/Precision-Medicine-Ai2healthcare.png){:width="150%"}
-
 <ul class="posts">
     {% for post in site.posts %}
       <li>
