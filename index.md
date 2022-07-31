@@ -1,11 +1,9 @@
 ---
 layout: page
-title: Chinese BioPharma Career Networking，CBCN
+title: Chinese BioPharma Career Networking (CBCN)
 tagline: 
 ---
 {% include JB/setup %}
-
-![]({{ site.url }}/images/Precision-Medicine-Ai2healthcare.png){:width="150%"}
 
 <ul class="posts">
     {% for post in site.posts %}
