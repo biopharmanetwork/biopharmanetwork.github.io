@@ -20,9 +20,10 @@ CBCN每月将邀请一到两位工业界资深工作者就自己的工作进行�
 [https://www.youtube.com/channel/UCeJ-M-ZRE-p0m6xuYL7cs9g](https://www.youtube.com/channel/UCeJ-M-ZRE-p0m6xuYL7cs9g)
 [https://twitter.com/CareerBiopharma](https://twitter.com/CareerBiopharma)
 
-#### Linkedin：
+#### Linkedin和Telegram：
 
 [https://www.linkedin.com/groups/12692583/](https://www.linkedin.com/groups/12692583/)
+[https://t.me/+8HA1KycsE8E2YWJh](https://t.me/+8HA1KycsE8E2YWJh)
 
 #### CBCN-Github程序集：
 
