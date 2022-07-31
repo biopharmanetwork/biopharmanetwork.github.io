@@ -8,7 +8,7 @@ syntax_highlighter_opts:
     css_class: 'highlight'
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
-title : AI2healthcare
+title : BioPharmaNetwork
 tagline: exploring and playing with data in R
 author :
   name : BioPharmaNetwork
