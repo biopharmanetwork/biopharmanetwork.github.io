@@ -76,7 +76,7 @@ JB :
   comments :
     provider : disqus
     disqus :
-      short_name : ai2healthcare
+      short_name : BioPharmaNetwork
     livefyre :
       site_id : 123
     intensedebate :
