@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Chinese BioPharma Career Networking，CBCN
+title: Chinese BioPharma Career Networking (CBCN)
 tagline: 
 ---
 {% include JB/setup %}
