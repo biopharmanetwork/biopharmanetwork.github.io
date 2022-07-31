@@ -29,7 +29,7 @@ CBCN每月将邀请一到两位工业界资深工作者就自己的工作进行�
 
 * [https://github.com/biopharmanetwork/biopharmanetwork.github.io](https://github.com/biopharmanetwork/biopharmanetwork.github.io)
 
-#### CBCN-Google Gropu：
+#### CBCN-Google Group：
 
 * [https://groups.google.com/g/chinese-biopharma-career-networking-cbcn](https://groups.google.com/g/chinese-biopharma-career-networking-cbcn)
 
