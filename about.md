@@ -11,7 +11,7 @@ group: navigation
 
 我们的愿景是构建一个扩展视野、共同成长的工业界职业发展平台。我们相信科技引领未来，但我们更认定未来不是靠一个人或一家企业创造的。在这里，我们关注创新与商机。精准医疗、基因编辑、人工智能、合成生物学等将成为核心驱动力；在这里，我们结交新朋友、分享科技动态、创业体会、项目管理、个人规划、领导力、招聘信息、业务垂询、商业动态。
 
-CBCN每月将邀请一到两位工业界资深工作者就自己的工作进行经验分享。汇报主要以中文的形式在[YouTube](https://www.youtube.com/channel/UCeJ-M-ZRE-p0m6xuYL7cs9g) Channel播放。
+CBCN每月将邀请一到两位工业界资深工作者就自己的工作进行经验分享。汇报主要以中文的形式在[YouTube](https://www.youtube.com/channel/UCeJ-M-ZRE-p0m6xuYL7cs9g) Channel播放！
 
 **[欢迎加入我们的[Telegram](https://t.me/+8HA1KycsE8E2YWJh)，也欢迎广大华人医学工作者在此平台介绍自己的工作及研发或创业经历。
 
