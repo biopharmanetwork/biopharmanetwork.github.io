@@ -27,7 +27,6 @@ CBCN每月将邀请一到两位工业界资深工作者就自己的工作进行�
 
 **Platinum Sponsor!**
 
-
 **Gold Sponsors!**
 
 [<img alt="" src="images/Umabs-2022.png" />](https://umabs.com/)
