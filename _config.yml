@@ -8,7 +8,7 @@ syntax_highlighter_opts:
     css_class: 'highlight'
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
-title : AI2healthcare
+title : BioPharmaNetwork
 tagline: exploring and playing with data in R
 author :
   name : BioPharmaNetwork
@@ -17,14 +17,14 @@ author :
   stackoverflow : BioPharmaNetwork
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/ai2healthcare/ai2healthcare.github.io/master/assets/images/logo.png
+avatar: https://raw.githubusercontent.com/biopharmanetwork/biopharmanetwork.github.io/main/assets/images/logo-cbcn.png
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt
 # Most places will/should use BASE_PATH to make the urls
 # If you have set a CNAME (pages.github.com) set your custom domain here.
 # Else if you are pushing to username.github.io, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
-production_url : https://ai2healthcare.github.io
+production_url : https://github.com/biopharmanetwork/biopharmanetwork.github.io
 gems:
   - jekyll-sitemap
   - jekyll-paginate
@@ -76,7 +76,7 @@ JB :
   comments :
     provider : disqus
     disqus :
-      short_name : ai2healthcare
+      short_name : BioPharmaNetwork
     livefyre :
       site_id : 123
     intensedebate :
@@ -145,5 +145,5 @@ google_analytics:
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
 description: exploring and playing with data in R
-url: https://ai2healthcare.github.io
+url: https://biopharmanetwork.github.io/
 
